@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+
+# MUST BE RAN THROUGH CONVERTER.PY FIRST!!!
 '''
 Requires 3 arguments to be passed
 - arg 1 input file of text (each password on a new line)
